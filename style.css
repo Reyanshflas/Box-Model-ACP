@@ -1,0 +1,37 @@
+#outer_box{
+    background-color: purple;
+    height: 600px;
+    border: 2px solid black;
+    padding: 40px;
+}
+
+#para-1{
+
+    background-color:burlywood;
+    color: pink;
+    height: 200px ;
+    border: 2px solid black;
+}
+
+#para-2{
+    background-color:darkseagreen;
+    color: blue;
+    height: 200px;
+    border: 2px solid black;
+    margin-top: 100px;
+}
+
+#box-2{
+
+    background-color: rgb(255, 230, 0);
+    height: 600px;
+    border: 2px solid black;
+    margin-top: 200px
+}
+
+#para-3{
+    background-color: ;
+    color: red;
+    height: 200px;
+
+}
